@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+.pad-section {
+    padding: 50px 0;
+}
+.pad-section img {
+    width: 100%;
+}
+.text-vcenter {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.text-vcenter img {
+    width: 588px;
+    height:428px;
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 5%
+}
+#home {
+    background-color: aqua;
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
