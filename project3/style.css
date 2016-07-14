@@ -1,0 +1,44 @@
+
+body {
+        background-image: url(Cinemaaustralia.jpg);
+
+
+}
+div {
+        background-color:black;
+        opacity: .85;
+        margin-top: 150px;
+        margin-bottom: 100px;
+        margin-left: 160px;
+        margin-right: 160px;
+
+}
+h1 {
+        color:chartreuse;
+        text-align:center;
+        text-shadow: 4px 4px 5px #999;
+
+}
+h2 {    color:chartreuse;
+        text-align: center;
+		text-shadow: 2px 2px 5px #999;
+        font-size: 200%;
+
+}
+h3 {    color:aqua;
+        text-align: center;
+        font-size: 100%;
+
+}
+
+p {     color: aliceblue;
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-bottom:50px;
+        text-align:center;
+}
+
+
+
+
+

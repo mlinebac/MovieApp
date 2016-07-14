@@ -5,8 +5,8 @@ html, body {
 .pad-section {
     padding: 50px 0;
 }
-.pad-section img {
-    width: 100%;
+.pad-section iframe{
+    margin-left:25%;
 }
 .text-vcenter {
     display: table-cell;
@@ -25,4 +25,23 @@ html, body {
     height: 100%;
     position: relative;
     width: 100%;
+}
+#about{
+    background-color:palegreen;
+    font-size: 25px;
+    text-align:center;
+
+
+}
+#information {
+    background-color:palevioletred;
+}
+#media {
+    background-color:dodgerblue;
+}
+.fb-page{
+    margin-left:17%;
+}
+footer{
+    padding:20px 0;
 }

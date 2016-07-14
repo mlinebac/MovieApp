@@ -1,0 +1,26 @@
+body{
+	font-family: 'Denk One',sans-serif;
+    font-size: 150%;
+	background-color:antiquewhite;
+	width: 800px;
+	margin: auto;
+	align-items:justify;
+}
+p{
+	color: brown;
+	font-size: 150%;
+	border: 10px solid brown;
+	padding: 10px;
+	text-align:center;
+}
+
+li{
+	font-size: xx-large;
+    text-align:center;
+    list-style: none;
+
+}
+a:link{
+    text-decoration: none;
+    text-decoration-color:brown;
+}
