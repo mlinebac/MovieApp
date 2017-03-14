@@ -1,0 +1,20 @@
+{
+  "name": "MovieApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlinebac/MovieApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlinebac/MovieApp/issues"
+  },
+  "homepage": "https://github.com/mlinebac/MovieApp#readme"
+}
