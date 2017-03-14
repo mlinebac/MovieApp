@@ -1,7 +1,7 @@
 {
-  "name": "MovieApp",
+  "name": "simplemovieapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple app displaying information about current movies playing in theatres ",
   "main": "client.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,12 @@
     "url": "git+https://github.com/mlinebac/MovieApp.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matt Lineback",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mlinebac/MovieApp/issues"
   },
-  "homepage": "https://github.com/mlinebac/MovieApp#readme"
+  "homepage": "https://github.com/mlinebac/MovieApp#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
