@@ -27,5 +27,3 @@ var main = function(){
 };
 main();
 })();
-
-

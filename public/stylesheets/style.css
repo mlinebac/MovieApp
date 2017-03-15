@@ -1,6 +1,6 @@
 
 body {
-        background-image: url(Cinemaaustralia.jpg);
+        background-image: url(images/Cinemaaustralia.jpg);
 
 
 }
@@ -21,7 +21,7 @@ h1 {
 }
 h2 {    color:chartreuse;
         text-align: center;
-		text-shadow: 2px 2px 5px #999;
+	text-shadow: 2px 2px 5px #999;
         font-size: 200%;
 
 }

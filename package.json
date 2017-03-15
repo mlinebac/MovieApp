@@ -1,22 +1,21 @@
 {
   "name": "simplemovieapp",
-  "version": "1.0.0",
-  "description": "a simple app displaying information about current movies playing in theatres ",
-  "main": "client.js",
+  "version": "0.0.1",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mlinebac/MovieApp.git"
-  },
-  "keywords": [],
-  "author": "Matt Lineback",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mlinebac/MovieApp/issues"
-  },
-  "homepage": "https://github.com/mlinebac/MovieApp#readme",
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "express": "~4.0.0",
+    "static-favicon": "~1.0.0",
+    "morgan": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "jade": "~1.3.0"
+   },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  }
 }
