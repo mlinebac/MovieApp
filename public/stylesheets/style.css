@@ -1,42 +1,52 @@
 
 body {
         background-image: url(images/Cinemaaustralia.jpg);
+        background-position:center;
+        padding-top: 20px;
+        padding-bottom: 20px;
 
+        }
 
-}
-div {
+.jumbotron { 
         background-color:black;
-        opacity: .85;
-        margin-top: 150px;
-        margin-bottom: 100px;
-        margin-left: 100px;
-        margin-right: 100px;
+        opacity: .90;
+        color:chartreuse;
 
-}
+        }
+.container-fluid {
+        
+        margin-top: 5%;
+        margin-bottom: 0;
+        margin-left: 10%;
+        margin-right: 10%;
+
+       }
 h1 {
         color:chartreuse;
         text-align:center;
         text-shadow: 4px 4px 5px #999;
+        font-size:400%;
 
-}
-h2 {    color:chartreuse;
+        }
+h2 {    
+        color:chartreuse;
         text-align: center;
 	text-shadow: 2px 2px 5px #999;
         font-size: 200%;
+        padding-top: 5%;
 
-}
-h3 {    color:aqua;
+        }
+h3 {    
+        color:aqua;
         text-align: center;
         font-size: 100%;
+        
+        }
 
-}
-
-p {     color: aliceblue;
-        padding-left: 50px;
-        padding-right: 50px;
-        padding-bottom:50px;
+p {     
+        color: aliceblue;
         text-align:center;
-}
+        }
 
 
 

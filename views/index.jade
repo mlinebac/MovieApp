@@ -6,10 +6,13 @@ html(lang='en')
     link(rel='stylesheet', media='screen', href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css')
     title NOW PLAYING: A Movie Guide
     link(href='stylesheets/style.css', rel='stylesheet', type='text/css')
-  body.container-fluid
+  body
     script(src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js')
     script(src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js')
     script(src='javascripts/client.js')
     script(src='stylesheets/style.css')
-    #movies.container-fluid
-      h1 NOW PLAYING
+    div.container-fluid
+      div.jumbotron
+        h1 NOW PLAYING
+        #movies
+       
