@@ -24,7 +24,6 @@ h2 {
         text-align: center;
 	    text-shadow: 2px 2px 5px #999;
         padding-top: 5%;
-        
         }
 
 h3 {    
@@ -46,5 +45,7 @@ img {
         margin-right: auto;
 }
 
-
-
+#searchbar {
+        margin-right: 5%;
+        margin-left: 5%;
+}
